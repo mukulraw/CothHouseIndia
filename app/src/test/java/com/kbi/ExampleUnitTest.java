@@ -1,4 +1,4 @@
-package com.clothhouseindia;
+package com.kbi;
 
 import org.junit.Test;
 

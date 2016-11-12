@@ -1,4 +1,4 @@
-package com.clothhouseindia;
+package com.kbi;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
